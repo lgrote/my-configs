@@ -1,6 +1,4 @@
 calibre
-~/bin/eclipse
-~/bin/emacs
 emacs
 evince
 freemind
@@ -17,4 +15,4 @@ google-chrome
 vuze
 icedove
 quodlibet
-~/intellij
+intellij
