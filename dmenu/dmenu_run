@@ -1,0 +1,3 @@
+#!/bin/bash
+
+cat ~/.dmenu.list | dmenu -b -nf '#888888' -nb '#222222' -sf '#ffffff' -sb '#285577'
