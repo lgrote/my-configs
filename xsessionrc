@@ -1,0 +1,4 @@
+
+# toggle between german and us layout.
+setxkbmap -option grp:sclk_toggle,grp_led:scroll -layout "us,de" ",qwerty"
+

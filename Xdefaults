@@ -1,0 +1,31 @@
+xrenoise.use_xcursors:          1
+xrenoise.display:               :0.0
+xrenoise.display_resource:      0x00,0xA1,0xD3,0x7C,0x29,0x4A,0xED,0x12
+xrenoise.executable_path:       /home/palo/local/src/Renoise_2_7_2_Demo_x86_64/renoise
+
+URxvt.perl-ext-common:          default,matcher
+URxvt.urlLauncher:              google-chrome
+URxvt.matcher.button:           1
+URxvt.matcher.pattern.1:        \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+URxvt.colorUL:                  #86a2be
+URxvt.urgentOnBell: true
+
+!URxvt.matcher.pattern.1:        \bwww\.[\w-]\.[\w./?&@#-]*[\w/-]
+
+
+urxvt*background:Black
+urxvt*foreground:Green
+!urxvt*loginShell:true
+!urxvt*inheritPixmap: true
+!urxvt*tintColor: white
+!urxvt*transparent:true
+!urxvt*shading:40
+!urxvt*scrollBar:true
+!urxvt*scrollBar_right:true
+!urxvt*transpscrollbar:true
+!urxvt*saveLines:50000
+URxvt*font: xft:terminus:pixelsize=14
+!URxvt.perl-ext-common: default,matcher
+!URxvt.urlLauncher: google-chrome
+!URxvt.matcher.button: 2
+!URxvt.matcher.pattern.1: \bwww\.[\w-]\.[\w./?&@#-]*[\w/-]
