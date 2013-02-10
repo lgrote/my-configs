@@ -1,7 +1,7 @@
 xrenoise.use_xcursors:          1
 xrenoise.display:               :0.0
 xrenoise.display_resource:      0x00,0xA1,0xD3,0x7C,0x29,0x4A,0xED,0x12
-xrenoise.executable_path:       /home/palo/local/src/Renoise_2_7_2_Demo_x86_64/renoise
+xrenoise.executable_path:       /home/palo/local/programms/renoise/renoise
 
 URxvt.perl-ext-common:          default,matcher
 URxvt.urlLauncher:              google-chrome
